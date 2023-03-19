@@ -1,0 +1,51 @@
+{
+  "outputFileName": "unlinked",
+  "disableWorkingLinks": false,
+  "directoriesToIgnore": [
+    "0-日记/",
+    "Templater/",
+    "help/",
+    "0-附件素材/草图/",
+    "0-附件素材/unlinked/"
+  ],
+  "filesToIgnore": [
+    "unresolved.md",
+    "unlinked.md",
+    "without-tags.md"
+  ],
+  "fileTypesToIgnore": [],
+  "linksToIgnore": [],
+  "tagsToIgnore": [],
+  "fileTypesToDelete": [
+    ""
+  ],
+  "ignoreFileTypes": true,
+  "ignoreDirectories": true,
+  "unresolvedLinksOutputFileName": "unresolved",
+  "unresolvedLinksDirectoriesToIgnore": [
+    "0-日记/",
+    "Templater/",
+    "help/",
+    "0-附件素材/草图/"
+  ],
+  "unresolvedLinksFilesToIgnore": [
+    "unresolved.md",
+    "unlinked.md",
+    "without-tags.md"
+  ],
+  "unresolvedLinksFileTypesToIgnore": [],
+  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksTagsToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [
+    "0-日记/",
+    "Templater/",
+    "help/",
+    "0-附件素材/草图/"
+  ],
+  "withoutTagsFilesToIgnore": [
+    "unresolved.md",
+    "unlinked.md",
+    "without-tags.md"
+  ],
+  "withoutTagsOutputFileName": "without-tags"
+}

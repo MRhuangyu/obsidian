@@ -1,0 +1,30 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "communityThemeSortOrder": "download",
+  "attachmentFolderPath": "0-附件素材",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "spellcheck": false,
+  "communityPluginSortOrder": "download",
+  "newFileLocation": "folder",
+  "fileSortOrder": "alphabetical",
+  "newFileFolderPath": "D-落叶寻枝",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "autoPairBrackets": false,
+  "showUnsupportedFiles": true,
+  "promptDelete": true,
+  "emacsyKeys": false,
+  "showInlineTitle": false
+}

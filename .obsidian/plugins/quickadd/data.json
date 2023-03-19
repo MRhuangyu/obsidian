@@ -1,0 +1,267 @@
+{
+  "choices": [
+    {
+      "id": "84aa91be-f5a9-43cb-bc36-d0cd2b9042cf",
+      "name": "灵光",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "A-闪念笔记/Myideas.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{VALUE}}  {{DATE:YYYY-MM-DD HH:MM:SS}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "b8884869-639d-42a2-b001-4cd23f182135",
+      "name": "新建文献笔记",
+      "type": "Template",
+      "command": true,
+      "templatePath": "H-help/Templater/tp-文献笔记.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:请输入文献笔记名称}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "B-文献笔记"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "495ecd86-70d2-4555-9fb3-7d5f5c11615e",
+      "name": "新建永久笔记",
+      "type": "Template",
+      "command": true,
+      "templatePath": "H-help/Templater/tp-永久笔记.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:请输入永久笔记名称}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "C-永久笔记"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "19521520-4fb6-49ff-93c7-7eced04afc42",
+      "name": "新建闪念笔记",
+      "type": "Template",
+      "command": true,
+      "templatePath": "H-help/Templater/tp-闪念笔记.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:请输入闪念笔记名称}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "A-闪念笔记"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "f55c99b9-e80f-466b-ba3b-028a60dc895e",
+      "name": "思维导图",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "1e535189-f686-4f50-807d-1a0506bbff65",
+          "name": "mind-基本",
+          "type": "Template",
+          "command": false,
+          "templatePath": "H-help/Templater/mind-basic.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:请输入【思维导图】名称}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "3-思维导图/ob-mind"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "17a98f12-e0a7-4251-b971-4323af0367d9",
+          "name": "mind-全功能",
+          "type": "Template",
+          "command": false,
+          "templatePath": "H-help/Templater/mind-rich.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:请输入【思维导图】名称}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "3-思维导图/ob-mind"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "91982e57-4525-4973-a40c-f2aee21f7137",
+      "name": "CreateReadNote",
+      "type": "Template",
+      "command": false,
+      "templatePath": "H-help/Templater/BookNote.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "B-文献笔记"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "12114472-c2b1-4a05-af75-3bd812af51f1",
+      "name": "CreateMovieNote",
+      "type": "Template",
+      "command": false,
+      "templatePath": "H-help/Templater/MovieNote.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:fileName}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "B-文献笔记/电影"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "47e16eba-83a9-4c68-b577-716ada73d5fd",
+      "name": "书影笔记生成",
+      "type": "Macro",
+      "command": true,
+      "macroId": "982ebc71-5fd2-4b30-9e46-c1b39256c3e3"
+    }
+  ],
+  "macros": [
+    {
+      "name": "书影笔记生成",
+      "id": "982ebc71-5fd2-4b30-9e46-c1b39256c3e3",
+      "commands": [
+        {
+          "name": "doubanInOne",
+          "type": "UserScript",
+          "id": "06ab148a-5a27-4671-a9be-ea6ec81c5e01",
+          "path": "H-help/Templater/Scripts/doubanInOne.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

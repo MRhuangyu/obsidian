@@ -1,0 +1,59 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://hanyu.sogou.com/result?query={{query}}",
+      "name": "汉语词典",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://translate.google.cn/?sl=en&tl=zh-CN&text={{query}}%0A&op=translate",
+      "name": "谷歌翻译",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "http://opac.gzlib.org.cn/opac/search?&q={{query}}",
+      "name": "广州图书馆",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.clcindex.com/search/?wd={{query}}",
+      "name": "中图分类法",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://vufind.library.sh.cn/Search/Results?searchtype=vague&lookfor={{query}}",
+      "name": "上海图书馆",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://search.douban.com/book/subject_search?search_text={{query}}",
+      "name": "豆瓣读书",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.sogou.com/web?query={{query}}",
+      "name": "搜狗",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://cn.bing.com/search?q={{query}}",
+      "name": "必应",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://zh.wikihow.com/wikiHowTo?search={{query}}",
+      "name": "wikiHow",
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}

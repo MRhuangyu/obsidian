@@ -1,0 +1,6 @@
+{
+  "folder": "1-日记",
+  "format": "YYYYMMDD",
+  "template": "H-help/Templater/00日记模版",
+  "autorun": false
+}

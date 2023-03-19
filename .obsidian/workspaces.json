@@ -1,0 +1,551 @@
+{
+  "workspaces": {
+    "数据可视化": {
+      "main": {
+        "id": "e22778a80082e052",
+        "type": "split",
+        "children": [
+          {
+            "id": "409202d29a655879",
+            "type": "leaf",
+            "dimension": 24.382901866345573,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D-落叶寻枝/chartview/charts-6种静态图表.md",
+                "mode": "preview",
+                "backlinks": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1cd44a91200e969b",
+            "type": "leaf",
+            "dimension": 46.297411198073455,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D-落叶寻枝/chartview/chart view-all.md",
+                "mode": "preview",
+                "backlinks": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f2b5e4b10fdc1e5e",
+            "type": "leaf",
+            "dimension": 29.319686935580975,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D-落叶寻枝/chartview/chart view-柱状图.md",
+                "mode": "preview",
+                "backlinks": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cde6247677876e1c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b13413c61b156f22",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "be6940af27691776",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b5825a794826b48",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "file:index-",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2632b557f345ef18",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 178,
+        "collapsed": true
+      },
+      "right": {
+        "id": "84abb2e5887ac061",
+        "type": "split",
+        "children": [
+          {
+            "id": "2b4522b55c9734e7",
+            "type": "tabs",
+            "dimension": 29.88505747126437,
+            "children": [
+              {
+                "id": "afa1a8417f28ee7a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "D-落叶寻枝/chartview/chart view-all.md"
+                  }
+                }
+              },
+              {
+                "id": "51dac591eaa893f5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "e1823cec110a9112",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "D-落叶寻枝/chartview/chart view-all.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "f3ff5e46a9300bbf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "D-落叶寻枝/chartview/chart view-all.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "b153ab945abe445c",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "77080a645b26fe47",
+            "type": "tabs",
+            "dimension": 21.21212121212121,
+            "children": [
+              {
+                "id": "b4969c4bfff0dc78",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "85632fbad85115b1",
+            "type": "tabs",
+            "dimension": 48.90282131661442,
+            "children": [
+              {
+                "id": "9d23525afc1b6453",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 302.0595397949219,
+        "collapsed": true
+      },
+      "active": "1cd44a91200e969b"
+    },
+    "写作": {
+      "main": {
+        "id": "e22778a80082e052",
+        "type": "split",
+        "children": [
+          {
+            "id": "5c1d5207ba9f5c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B-文献笔记/何来何往.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cde6247677876e1c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b13413c61b156f22",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "be6940af27691776",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b5825a794826b48",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "文章",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2632b557f345ef18",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e1823cec110a9112",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "B-文献笔记/何来何往.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "f3ff5e46a9300bbf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "B-文献笔记/何来何往.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 268
+      },
+      "right": {
+        "id": "84abb2e5887ac061",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a10375172849ceb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ddc2519311106e7",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "B-文献笔记/何来何往.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2b4522b55c9734e7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afa1a8417f28ee7a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "B-文献笔记/何来何往.md"
+                  }
+                }
+              },
+              {
+                "id": "51dac591eaa893f5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "b153ab945abe445c",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 402.5
+      },
+      "active": "5c1d5207ba9f5c48"
+    },
+    "主页": {
+      "main": {
+        "id": "e22778a80082e052",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4449e8940ec4b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cde6247677876e1c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b13413c61b156f22",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "be6940af27691776",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b5825a794826b48",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "文章",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2632b557f345ef18",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 154,
+        "collapsed": true
+      },
+      "right": {
+        "id": "84abb2e5887ac061",
+        "type": "split",
+        "children": [
+          {
+            "id": "2b4522b55c9734e7",
+            "type": "tabs",
+            "dimension": 31.93916349809886,
+            "children": [
+              {
+                "id": "afa1a8417f28ee7a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "home.md"
+                  }
+                }
+              },
+              {
+                "id": "51dac591eaa893f5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "e1823cec110a9112",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "home.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "f3ff5e46a9300bbf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "home.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "b153ab945abe445c",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "85632fbad85115b1",
+            "type": "tabs",
+            "dimension": 68.06083650190115,
+            "children": [
+              {
+                "id": "9d23525afc1b6453",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 302.0595397949219
+      },
+      "active": "b4449e8940ec4b5c"
+    }
+  },
+  "active": "主页"
+}

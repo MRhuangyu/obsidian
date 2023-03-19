@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "整齐排列中文-两端对齐",
+    "nav-labels-zh"
+  ],
+  "translucency": false,
+  "baseFontSizeAction": false,
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": true
+}

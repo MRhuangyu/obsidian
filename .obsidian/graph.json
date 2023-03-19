@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:B-文献笔记",
+      "color": {
+        "a": 1,
+        "rgb": 7624922
+      }
+    },
+    {
+      "query": "path:C-永久笔记",
+      "color": {
+        "a": 1,
+        "rgb": 15904294
+      }
+    },
+    {
+      "query": "path:G-发布归档",
+      "color": {
+        "a": 1,
+        "rgb": 1160726
+      }
+    },
+    {
+      "query": "path:index",
+      "color": {
+        "a": 1,
+        "rgb": 6550230
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 2.33461538461538,
+  "lineSizeMultiplier": 3.879296875,
+  "collapse-forces": false,
+  "centerStrength": 0.346859056122449,
+  "repelStrength": 7.0488940628638,
+  "linkStrength": 0.585200814901048,
+  "linkDistance": 30,
+  "scale": 0.2229216670955841,
+  "close": true
+}

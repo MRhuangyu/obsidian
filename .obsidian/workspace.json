@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "dc0f58696ad3f83c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f982f5ce427b572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44dcb01097be1526",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73cfae2b596f694e",
+    "type": "split",
+    "children": [
+      {
+        "id": "559c4276ab231d13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da66d4e52281d5aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fec5b1335a66ca2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "813433da667d2296",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d06b147889a41644",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c0feddef2c89a20",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea3bff8a0a6a6c9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2721599833943bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c490b600b75326f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f878431e62a4b966",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "617c77dd2fff5fbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed10f462b285ea75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "80a79609d070a629",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f144b085e95cce4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f74173f17905cd50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "44dcb01097be1526",
+  "lastOpenFiles": [
+    "B-读书笔记/电影/黑客帝国3：矩阵革命 The Matrix Revolutions.md",
+    "B-读书笔记/电影/阿甘正传 Forrest Gump.md",
+    "B-读书笔记/电影/阿凡达 Avatar.md",
+    "B-读书笔记/电影/钢铁侠3 Iron Man 3.md",
+    "B-读书笔记/电影/超体2 Lucy 2.md",
+    "B-读书笔记/电影/西虹市首富.md",
+    "B-读书笔记/电影/玩具总动员4 Toy Story 4.md",
+    "B-读书笔记/电影/肖申克的救赎 The Shawshank Redemption.md",
+    "B-读书笔记/电影/狙击手.md",
+    "B-读书笔记/电影/新蝙蝠侠 The Batman.md",
+    "B-读书笔记/电影/楚门的世界 The Truman Show.md",
+    "B-读书笔记/电影/心灵奇旅 Soul.md",
+    "B-读书笔记/电影/平凡的世界.md",
+    "B-读书笔记/电影/少林足球.md",
+    "B-读书笔记/电影/夏洛特烦恼.md",
+    "B-读书笔记/电影/头脑特工队 Inside Out.md",
+    "B-读书笔记/电影/大话西游之大圣娶亲 西遊記大結局之仙履奇緣.md",
+    "B-读书笔记/电影/唐伯虎点秋香 唐伯虎點秋香.md",
+    "B-读书笔记/电影/北京爱情故事.md",
+    "B-读书笔记/电影/哪吒之魔童降世.md",
+    "B-读书笔记/电影/功夫.md",
+    "B-读书笔记/电影/僵尸叔叔 殭屍叔叔.md",
+    "B-读书笔记/电影/“炼”爱.md",
+    "B-读书笔记/阅读的力量.md",
+    "B-读书笔记/阅读是一座随身携带的避难所.md",
+    "B-读书笔记/通识.md",
+    "B-读书笔记/电影",
+    "B-读书笔记/微信读书",
+    "B-读书笔记",
+    "A-闪念笔记",
+    "2-Excalidraw/font/鸿雷板书简体.ttf",
+    "2-Excalidraw/font/手书体.ttf",
+    "2-Excalidraw/font/千图纤墨体.ttf",
+    "2-Excalidraw/font/千图笔锋手写体.ttf",
+    "2-Excalidraw/font",
+    "2-Excalidraw",
+    "0-附件素材/头图/tunisia-g92f2bf537_1920.jpg",
+    "0-附件素材/头图/swans-g2e489b0e9_1920.jpg",
+    "0-附件素材/头图/sunset-gf5a677a8a_1920.jpg",
+    "0-附件素材/头图/sunset-ge28cf669b_1920.jpg",
+    "0-附件素材/头图/snowdrift-gecf51e07f_1920.jpg",
+    "0-附件素材/头图/road-g946886d61_1920.jpg",
+    "0-附件素材/头图/pyramids-g2b942ed19_1920.jpg",
+    "0-附件素材/头图/prairie-g42177e228_1920.jpg",
+    "0-附件素材/头图/panorama-gdd28ee541_1920.jpg",
+    "0-附件素材/头图/movies.jpg",
+    "未命名.canvas",
+    "canvas/未命名.canvas",
+    "工作/流程易/1.流程易关系图.canvas"
+  ]
+}
