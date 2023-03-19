@@ -33,14 +33,7 @@
     }
   ],
   "editor:toggle-blockquote": [],
-  "theme:use-dark": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "Z"
-    }
-  ],
+  "theme:use-dark": [],
   "insert-current-time": [
     {
       "modifiers": [

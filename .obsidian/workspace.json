@@ -1,18 +1,23 @@
 {
   "main": {
-    "id": "dc0f58696ad3f83c",
+    "id": "e22778a80082e052",
     "type": "split",
     "children": [
       {
-        "id": "1f982f5ce427b572",
+        "id": "c835c70e70f38843",
         "type": "tabs",
         "children": [
           {
-            "id": "44dcb01097be1526",
+            "id": "a902ea38247b4a1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D-落叶寻枝/dataview/所有标签汇集.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -21,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73cfae2b596f694e",
+    "id": "cde6247677876e1c",
     "type": "split",
     "children": [
       {
-        "id": "559c4276ab231d13",
+        "id": "b13413c61b156f22",
         "type": "tabs",
         "children": [
           {
-            "id": "da66d4e52281d5aa",
+            "id": "be6940af27691776",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,22 +44,22 @@
             }
           },
           {
-            "id": "4fec5b1335a66ca2",
+            "id": "0b5825a794826b48",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "高效能",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "813433da667d2296",
+            "id": "2632b557f345ef18",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,111 +67,106 @@
             }
           }
         ]
-      },
-      {
-        "id": "d06b147889a41644",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c0feddef2c89a20",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 399.5
   },
   "right": {
-    "id": "ea3bff8a0a6a6c9a",
+    "id": "84abb2e5887ac061",
     "type": "split",
     "children": [
       {
-        "id": "2721599833943bc8",
+        "id": "2b4522b55c9734e7",
         "type": "tabs",
+        "dimension": 31.939163498098857,
         "children": [
           {
-            "id": "1c490b600b75326f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f878431e62a4b966",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "617c77dd2fff5fbd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed10f462b285ea75",
+            "id": "afa1a8417f28ee7a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D-落叶寻枝/dataview/所有标签汇集.md"
+              }
             }
           },
           {
-            "id": "80a79609d070a629",
+            "id": "51dac591eaa893f5",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "5f144b085e95cce4",
+            "id": "e1823cec110a9112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D-落叶寻枝/dataview/所有标签汇集.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f3ff5e46a9300bbf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D-落叶寻枝/dataview/所有标签汇集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "f74173f17905cd50",
+            "id": "b153ab945abe445c",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "85632fbad85115b1",
+        "type": "tabs",
+        "dimension": 68.06083650190114,
+        "children": [
+          {
+            "id": "9d23525afc1b6453",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-custom-frames:Open 微信读书": false,
+      "random-note:开始漫游笔记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -174,57 +174,58 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "44dcb01097be1526",
+  "active": "9d23525afc1b6453",
   "lastOpenFiles": [
-    "B-读书笔记/电影/黑客帝国3：矩阵革命 The Matrix Revolutions.md",
-    "B-读书笔记/电影/阿甘正传 Forrest Gump.md",
-    "B-读书笔记/电影/阿凡达 Avatar.md",
-    "B-读书笔记/电影/钢铁侠3 Iron Man 3.md",
-    "B-读书笔记/电影/超体2 Lucy 2.md",
-    "B-读书笔记/电影/西虹市首富.md",
-    "B-读书笔记/电影/玩具总动员4 Toy Story 4.md",
-    "B-读书笔记/电影/肖申克的救赎 The Shawshank Redemption.md",
-    "B-读书笔记/电影/狙击手.md",
-    "B-读书笔记/电影/新蝙蝠侠 The Batman.md",
-    "B-读书笔记/电影/楚门的世界 The Truman Show.md",
-    "B-读书笔记/电影/心灵奇旅 Soul.md",
-    "B-读书笔记/电影/平凡的世界.md",
-    "B-读书笔记/电影/少林足球.md",
-    "B-读书笔记/电影/夏洛特烦恼.md",
-    "B-读书笔记/电影/头脑特工队 Inside Out.md",
-    "B-读书笔记/电影/大话西游之大圣娶亲 西遊記大結局之仙履奇緣.md",
-    "B-读书笔记/电影/唐伯虎点秋香 唐伯虎點秋香.md",
-    "B-读书笔记/电影/北京爱情故事.md",
-    "B-读书笔记/电影/哪吒之魔童降世.md",
-    "B-读书笔记/电影/功夫.md",
-    "B-读书笔记/电影/僵尸叔叔 殭屍叔叔.md",
-    "B-读书笔记/电影/“炼”爱.md",
-    "B-读书笔记/阅读的力量.md",
+    "1-日记/20230320.md",
+    "D-落叶寻枝/dataview/文件创建时间-日历视图.md",
+    "B-文献笔记/高效能人士的七个习惯.md",
+    "0-附件素材/文章头图汇总.md",
+    "H-help/Templater/MovieNote.md",
+    "H-help/Templater/mind-basic.md",
+    "H-help/Templater/mind-rich.md",
+    "H-help/Templater/BookNote.md",
+    "H-help/Templater/banners.md",
+    "H-help/Templater/嵌入网页.md",
+    "H-help/Templater/tp-闪念笔记.md",
+    "H-help/Templater/tp-文献笔记.md",
+    "H-help/Templater/tp-永久笔记.md",
+    "B-读书笔记/如何阅读一本书.md",
+    "0-附件素材/其它图库/高效能人士的七个习惯.jpg",
+    "B-读书笔记/高效能人士的七个习惯.md",
+    "B-文献笔记",
+    "home.md",
+    "B-读书笔记/技术/未命名.md",
+    "B-读书笔记/富兰克林传.md",
+    "B-读书笔记/曾国藩传.md",
+    "B-读书笔记/写作是门手艺.md",
+    "0-附件素材/其它图库/高效能人士的七个习惯.jpg.crdownload",
+    "B-读书笔记/知识的错觉.md",
+    "B-读书笔记/技术",
     "B-读书笔记/阅读是一座随身携带的避难所.md",
-    "B-读书笔记/通识.md",
+    "B-读书笔记/阅读的力量.md",
+    "B-读书笔记/小王子.md",
+    "B-读书笔记/王阳明：一切心法（修订版）.md",
+    "B-读书笔记/卡片笔记写作法.md",
+    "0-附件素材/头图/alpine-gbdddb9210_1920.jpg",
+    "0-附件素材/头图/africa-gecdb6d7cd_1920.jpg",
+    "0-附件素材/头图/books-g156f242fd_1920.jpg",
+    "0-附件素材/其它图库",
     "B-读书笔记/电影",
     "B-读书笔记/微信读书",
     "B-读书笔记",
     "A-闪念笔记",
     "2-Excalidraw/font/鸿雷板书简体.ttf",
     "2-Excalidraw/font/手书体.ttf",
-    "2-Excalidraw/font/千图纤墨体.ttf",
-    "2-Excalidraw/font/千图笔锋手写体.ttf",
-    "2-Excalidraw/font",
-    "2-Excalidraw",
     "0-附件素材/头图/tunisia-g92f2bf537_1920.jpg",
     "0-附件素材/头图/swans-g2e489b0e9_1920.jpg",
     "0-附件素材/头图/sunset-gf5a677a8a_1920.jpg",
     "0-附件素材/头图/sunset-ge28cf669b_1920.jpg",
     "0-附件素材/头图/snowdrift-gecf51e07f_1920.jpg",
     "0-附件素材/头图/road-g946886d61_1920.jpg",
-    "0-附件素材/头图/pyramids-g2b942ed19_1920.jpg",
-    "0-附件素材/头图/prairie-g42177e228_1920.jpg",
-    "0-附件素材/头图/panorama-gdd28ee541_1920.jpg",
-    "0-附件素材/头图/movies.jpg",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "工作/流程易/1.流程易关系图.canvas"

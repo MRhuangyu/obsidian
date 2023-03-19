@@ -14,6 +14,6 @@
   "useTwemoji": false,
   "showPreviewInLocalModal": true,
   "localSuggestionsLimit": null,
-  "bannersFolder": "0-附件素材/头图",
+  "bannersFolder": null,
   "allowMobileDrag": false
 }
